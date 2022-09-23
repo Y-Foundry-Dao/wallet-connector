@@ -1,16 +1,16 @@
 {
-  "name": "@marsprotocol/wallet-connector",
+  "name": "@y-foundry-dao/wallet-connector",
   "version": "0.9.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mars-protocol/wallet-connector.git"
+    "url": "git+https://github.com/y-foundry-dao/wallet-connector.git"
   },
-  "author": "Mars Protcol",
+  "author": "Y-Foundry-DAO",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mars-protocol/wallet-connector/issues"
+    "url": "https://github.com/y-foundry-dao/wallet-connector/issues"
   },
-  "homepage": "https://github.com/mars-protocol/wallet-connector#readme",
+  "homepage": "https://github.com/y-foundry-dao/wallet-connector#readme",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "unpkg": "dist/index.js",
